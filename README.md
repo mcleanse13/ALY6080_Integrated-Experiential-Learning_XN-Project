@@ -1,4 +1,4 @@
-# ALY6080_Integrated-Experiential-Learning_XN-Project
+ALY6080 Integrated Experiential Learning: XN-Project
 
 Over the course of this project, my team and I developed a comprehensive data-driven strategy for Yeoman Technology Group (YTG) to enhance digital sales and marketing using Amazon data. I contributed to exploratory data analysis, predictive modeling, and dashboard creation to identify trends in market share, search query performance, clicks versus purchases, and brand positioning. Our analysis highlighted high-value advertising areas, conversion inefficiencies, and opportunities for smaller brands to grow their presence. We developed models such as a Brand Influence Model and an Advertising Effectiveness Model, which provided actionable insights to optimize ad spend and strengthen brand visibility. Regular engagement with stakeholders and iterative feedback were central to ensuring our recommendations aligned with YTG’s business goals.
 
