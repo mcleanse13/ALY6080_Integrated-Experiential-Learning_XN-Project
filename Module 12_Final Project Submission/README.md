@@ -1,4 +1,4 @@
-Optimizing Amazon Advertising & Digital Sales Strategy Using Predictive Analytics
+Final Project: Optimizing Amazon Advertising & Digital Sales Strategy Using Predictive Analytics
 
 In this final module, my team and I delivered our Sponsor Project for Yeoman Technology Group (YTG), presenting a comprehensive strategic plan to enhance digital sales and marketing using Amazon data. I contributed to the development of predictive models and interactive dashboards, synthesizing insights from exploratory data analysis, brand share metrics, search query performance, and conversion data. Together, we identified high-value areas for advertising, optimized ad spend, and provided actionable recommendations to improve conversion rates and strengthen brand positioning. The deliverable includes a “how-to” guide for using the dashboards and models, ensuring that YTG stakeholders can leverage our analysis effectively.
 
